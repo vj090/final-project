@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+# main file where applied the algorithm
 #Diabetes Prediction Using Support Vector Machine
 import pickle
 import os
