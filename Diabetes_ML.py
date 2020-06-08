@@ -48,7 +48,7 @@ desc
 
 ############################ Visualization  ###############################
 
-#Box-Plot
+#Box-Plot(Eda)
 #------------------
 df.boxplot(column='glucose_conc')
 df.boxplot(column='skin')
